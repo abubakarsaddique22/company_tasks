@@ -19,13 +19,14 @@ import csv, time, re, random, os
 # ============================================================
 
 AREAS = [
-    "pizza shops in Gulberg Lahore",
-    "pizza shops in DHA Lahore",
-    "pizza shops in Model Town Lahore",
-    "pizza shops in Johar Town Lahore",
-    "pizza shops in Bahria Town Lahore",
-    "pizza shops in Allama Iqbal Town Lahore",
-    "pizza shops in Wapda Town Lahore",
+    # "pizza shops in Gulberg Lahore",
+    # "pizza shops in DHA Lahore",
+    # "pizza shops in Model Town Lahore",
+    # "pizza shops in Johar Town Lahore",
+    # "pizza shops in Bahria Town Lahore",
+    # "pizza shops in Allama Iqbal Town Lahore",
+    # "pizza shops in Wapda Town Lahore",
+    "School Lahore"
 ]
 
 OUTPUT_FILE = "lahore_pizza_shops.csv"
